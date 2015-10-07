@@ -5,6 +5,6 @@ do
 	inkscape --export-pdf=$fi.pdf $fi
 done
 
-pdftk *.pdf cat output ..\presentazione.pdf
-rm *.pdf
+pdftk *.pdf cat output "presentazione.pdf"
+mv presentazione.pdf ../
 
