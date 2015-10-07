@@ -1,0 +1,10 @@
+
+rm *.pdf
+for fi in $(ls *.svg);
+do
+	inkscape --export-pdf=$fi.pdf $fi
+done
+
+pdftk *.pdf cat output ..\presentazione.pdf
+rm *.pdf
+
