@@ -1952,7 +1952,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.25767181"
      inkscape:cx="525.0576"
-     inkscape:cy="10.003769"
+     inkscape:cy="630.94868"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1982,43 +1982,43 @@
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:bold;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="49.349281"
-       y="382.98764"
+       x="57.111092"
+       y="386.86856"
        id="text5907"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="382.98764"
+         x="57.111092"
+         y="386.86856"
          id="tspan5911"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold">Il SISTEMA &quot;Laboratorio informatico&quot;</tspan><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="418.98764"
+         x="57.111092"
+         y="422.86856"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3474" /><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="454.98764"
+         x="57.111092"
+         y="458.86856"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3476">Specifiche funzionali:</tspan><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="490.98764"
+         x="57.111092"
+         y="494.86856"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3475" /><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="526.98767"
+         x="57.111092"
+         y="530.86859"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3486" /><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="562.98767"
+         x="57.111092"
+         y="566.86859"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3488" /><tspan
          sodipodi:role="line"
-         x="49.349281"
-         y="598.98767"
+         x="57.111092"
+         y="602.86859"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan3763" /></text>
     <flowRoot
@@ -2896,20 +2896,6 @@
          style="fill:#4a4a4a"
          id="text2735" />
     </g>
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/paolo/WualaDrive/pablitocalvo/LTSP.presentazione/logo.presentazione.png"
-       inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient3883);fill-opacity:1;fill-rule:nonzero;display:inline"
-       d="m -639.36949,-500.52395 c -33.2897,0 -60.2507,16.51199 -69.1771,38.60927 -10.1627,-3.87509 -21.1763,-6.65677 -33.4422,-6.65677 -40.4613,0 -73.2995,23.85787 -73.2995,53.25417 0,6.16609 2.3825,11.79793 5.0393,17.30761 -68.4192,51.58308 -22.4912,111.71663 47.8749,111.3758 10.3818,-0.0532 23.318,1.14827 34.3833,-2.65781 8.9255,22.09729 39.3633,33.05168 72.653,33.05168 33.2897,0 54.6873,-14.49154 63.6137,-36.58882 10.1627,3.87509 21.1763,6.65677 33.4422,6.65677 24.9292,0 47.2283,-8.80452 60.4721,-22.63302 35.3362,-0.89361 63.6797,-22.03978 63.6797,-47.92877 0,-17.9573 -14.2242,-33.06338 -34.3599,-41.27199 2.657,-5.50958 5.0394,-11.14185 5.0394,-17.30761 0,-29.3963 -32.8382,-53.25417 -73.2996,-53.25417 -12.2665,0 -23.2799,2.78168 -33.4421,6.65677 -8.9256,-22.09729 -35.886,-38.60928 -69.1772,-38.60928 z"
-       id="path3421" />
-    <path
-       style="color:#000000;fill:#00ff00;fill-opacity:0.32780086;stroke:#00f400;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -1583.4062,-820.09375 0,164.625 74.0937,0 0,-90.53125 107.0313,0 0,-74.09375 -181.125,0 z"
-       transform="translate(0,308.2677)"
-       id="rect3877"
-       inkscape:connector-curvature="0" />
     <g
        transform="matrix(3,0,0,3,824.8119,732.99917)"
        id="g3511">

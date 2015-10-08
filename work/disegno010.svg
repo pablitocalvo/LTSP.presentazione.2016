@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="disegno01.pdf"
+   sodipodi:docname="disegno010.svg"
    inkscape:export-filename="/home/paolo/WualaDrive/pablitocalvo/LTSP.presentazione/disegno01.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -86,7 +86,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="684"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1" />
@@ -98,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,7 +218,7 @@
          id="tspan5915"
          x="67.085426"
          y="445.40375"
-         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Italic">“Il cloud compunting prima dell'arrivo delle nuvole”</tspan></text>
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Italic">“Il cloud computing prima dell'arrivo delle nuvole”</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5966"
@@ -272,16 +272,16 @@
            y="498.30261" /></flowRegion><flowPara
          id="flowPara3697" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot5438"
+       id="flowRoot5438-4"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
-       transform="matrix(1.0034904,0,0,0.74157338,-416.623,679.9735)"><flowRegion
-         id="flowRegion5440"><rect
-           id="rect5442"
-           width="524.61841"
-           height="153.84575"
+       transform="matrix(1.1220342,0,0,0.70967048,-487.60052,693.63625)"><flowRegion
+         id="flowRegion5440-6"><rect
+           id="rect5442-7"
+           width="755.2674"
+           height="225.65915"
            x="467.43683"
            y="283.56558"
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#cccccc;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'" /></flowRegion><flowPara
-         id="flowPara5444">LABORATORIO </flowPara><flowPara
-         id="flowPara5446">SISTEMI</flowPara></flowRoot>  </g>
+         id="flowPara5446-3">LABORATORIO</flowPara><flowPara
+         id="flowPara3022">SISTEMI E RETI</flowPara></flowRoot>  </g>
 </svg>
